@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build files
+build/
+*.spec
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# OS metadata
+Thumbs.db
+.DS_Store
